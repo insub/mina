@@ -1,3 +1,5 @@
+# Mina - Modif for windows.
+
 # Mina
 
 Really fast deployer and server automation tool.
